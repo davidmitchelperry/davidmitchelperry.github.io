@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristian Cadar on David M. Perry</title>
+    <link>https://davidmitchelperry.github.io/authors/cristian-cadar/</link>
+    <description>Recent content in Cristian Cadar on David M. Perry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jul 2017 14:27:34 -0500</lastBuildDate>
+    
+	<atom:link href="https://davidmitchelperry.github.io/authors/cristian-cadar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accelerating Array Constraints in Symbolic Execution</title>
+      <link>https://davidmitchelperry.github.io/publication/accelerating-array-constraints-in-symbolic-execution/</link>
+      <pubDate>Fri, 07 Jul 2017 14:27:34 -0500</pubDate>
+      
+      <guid>https://davidmitchelperry.github.io/publication/accelerating-array-constraints-in-symbolic-execution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
